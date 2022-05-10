@@ -3,6 +3,7 @@ body {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
+    text-align: center;
 }
 
 input {
@@ -10,7 +11,8 @@ input {
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #5f9341;
-    margin-bottom: 4px;
+    background-color: #5f934181;
+    margin-bottom: .5em;
 }
 
 button {
@@ -19,6 +21,7 @@ button {
     padding: 10px 20px;
     border: 1px solid #5f9341;
     font-weight: bold;
+    margin: 0 .1em;
 }
 
 #delete-btn {
